@@ -1,6 +1,6 @@
 # career-goal
 
-# 요구사항
+# 요구사항 
 - [ ] KYS(Known Your Self)를 작성한다.
     - [ ] Key Strength 를 작성한다.
     - [ ] Read.me 를 작성한다.
